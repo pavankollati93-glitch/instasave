@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pavankollati93-glitch.github.io/instasave/sitemap.xml
